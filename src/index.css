@@ -15,22 +15,8 @@ body {
   justify-content: center;
 }
 
-.container{
-  min-width: 300px;
-max-width: 40vw;
-}
-
-.container h2{
-  font-size: 38px;
-  text-align: center;
-  background-color: orange;
-
-}
-
-.container p{
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  font-size: 15px;
-
+li{
+  list-style: none;
 }
 
 
